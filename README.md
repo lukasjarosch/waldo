@@ -1,2 +1,2 @@
 # Waldo
-Waldo is a headless CMS and content pipeline for Hugo
+Waldo provides multi-tenant hugo-sites as a service by exposing a simple HTTP/JSON API.
